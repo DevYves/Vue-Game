@@ -1,2 +1,3 @@
-# VueRPG
-A simple game built in Vue
+# Player vs Monster
+
+A simple game built as an exercise to explore VueJS
